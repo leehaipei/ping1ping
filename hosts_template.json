@@ -1,0 +1,25 @@
+{
+  "config": {},
+  "hosts": [
+    {
+      "name": "apple",
+      "host": "apple.com"
+    },
+    {
+      "name": "baidu",
+      "host": "www.baidu.com"
+    },
+    {
+      "name": "github",
+      "host": "github.com"
+    },
+    {
+      "name": "google",
+      "host": "google.com"
+    },
+    {
+      "name": "youtube",
+      "host": "youtube.com"
+    }
+  ]
+}
