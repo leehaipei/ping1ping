@@ -1,5 +1,5 @@
 const handelHostsFile = require("./lib/handelHostsFile");
-const readJsonFile = require("./until/readJsonFile");
+const readJsonFile = require("./util/readJsonFile");
 const handelPings = require("./lib/handelPings");
 const handelLogTable = require("./lib/handelLogTable");
 const moment = require("moment");
